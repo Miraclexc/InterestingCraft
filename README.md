@@ -1,0 +1,2 @@
+# InterestingCraft
+A minecraft mod
